@@ -1,0 +1,79 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+multitool
+
+# Build directories
+build/
+dist/
+*.user
+*.suo
+*.sln
+*.vcxproj*
+*.vcproj
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# Package files
+*.pkg.tar.zst
+*.pkg.tar.xz
+*.tar.gz
+*.zip
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# CMake build files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local development files
+.env
+*.local
