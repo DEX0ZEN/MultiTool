@@ -19,6 +19,14 @@ A multi-functional terminal utility for directory management and system tasks.
    ./install.sh
    ```
 
+## Deletion
+1. Run the remove script:
+   ```bash
+   cd MultiTool
+   chmod +x remove.sh
+   ./remove.sh
+   ```
+   
 ## Usage
 Run `multitool` in your terminal to access the main menu.
 
