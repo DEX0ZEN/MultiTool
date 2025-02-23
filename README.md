@@ -12,14 +12,13 @@ A multi-functional terminal utility for directory management and system tasks.
    ```bash
    git clone https://github.com/DEX0ZEN/MultiTool.git
    ```
-
-2. Build and Install:
+2. Run the installation script:
    ```bash
    cd MultiTool
-   makepkg -si
+   chmod +x install.sh
+   ./install.sh
    ```
 
 ## Usage
-
-  Run multitool in your terminal to access the main menu.
+Run `multitool` in your terminal to access the main menu.
 
